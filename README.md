@@ -1,6 +1,6 @@
-# crud_template
+# Flutter-Firebase CRUD Template
 
-A new Flutter project.
+CRUD Template for personal uses and purposes.
 
 ## Getting Started
 
